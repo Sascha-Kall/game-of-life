@@ -19,6 +19,11 @@ Im Gamemodus lässt sich das Startmuster nur am Start der Simulation anpassen. D
 *Insgesamt 2.670 Zeilen Code
 * ca. 1/2 Monate Entwicklungszeit
 
-[Weitere Informationen](https://www.sascha-kall.de "Weitere Informationen auf der Homepage")
+[Weitere Informationen zu dem Spiel auf der Homepage](https://www.sascha-kall.de "Weitere Informationen auf der Homepage")
 
-
+![](https://sascha-kall.de/wp-content/uploads/2018/08/MainMenu_Tumb.png)
+![](https://sascha-kall.de/wp-content/uploads/2018/08/Creativ-Mode_0_Tumb.png)
+![](https://sascha-kall.de/wp-content/uploads/2018/08/Field_Tumb.png)
+![](https://sascha-kall.de/wp-content/uploads/2018/08/Rules_Window_Tumb.png)
+![](https://sascha-kall.de/wp-content/uploads/2018/08/Cell_Legend_Tumb.png)
+![](https://sascha-kall.de/wp-content/uploads/2018/08/GameMode_Tumb.png)
