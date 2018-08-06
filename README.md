@@ -15,15 +15,20 @@ Im Gamemodus lässt sich das Startmuster nur am Start der Simulation anpassen. D
 * Farbliche Altersanzeige für die einzelnen Zellen
 
 #### FunFacts:
-*32 verschiedene C# Scripte
-*Insgesamt 2.670 Zeilen Code
+* 32 verschiedene C# Scripte
+* Insgesamt 2.670 Zeilen Code
 * ca. 1/2 Monate Entwicklungszeit
 
 [Weitere Informationen zu dem Spiel auf der Homepage](https://www.sascha-kall.de "Weitere Informationen auf der Homepage")
 
-![](https://sascha-kall.de/wp-content/uploads/2018/08/MainMenu_Tumb.png)
-![](https://sascha-kall.de/wp-content/uploads/2018/08/Creativ-Mode_0_Tumb.png)
-![](https://sascha-kall.de/wp-content/uploads/2018/08/Field_Tumb.png)
-![](https://sascha-kall.de/wp-content/uploads/2018/08/Rules_Window_Tumb.png)
-![](https://sascha-kall.de/wp-content/uploads/2018/08/Cell_Legend_Tumb.png)
-![](https://sascha-kall.de/wp-content/uploads/2018/08/GameMode_Tumb.png)
+| Das Hauptmenü | Der Kreativ-Modus |
+| :---: | :---: |
+| <img src="https://sascha-kall.de/wp-content/uploads/2018/08/MainMenu.png" width="440" /> | <img src="https://sascha-kall.de/wp-content/uploads/2018/08/Creativ-Mode_0.png" width="440" /> |
+
+| Das Spielfeld | Die einstellbare Regeln |
+| :---: | :---: |
+| <img src="https://sascha-kall.de/wp-content/uploads/2018/08/Field_Tumb.png" width="440" /> | <img src="https://sascha-kall.de/wp-content/uploads/2018/08/Rules_Window.png" width="440" /> |
+
+| Alterslegende für die einzelnen Zellen | Der Game-Mode |
+| :---: | :---: |
+| <img src="https://sascha-kall.de/wp-content/uploads/2018/08/Cell_Legend.png" width="440" /> | <img src="https://sascha-kall.de/wp-content/uploads/2018/08/GameMode.png" width="440" /> |
