@@ -15,9 +15,9 @@ Im Gamemodus lässt sich das Startmuster nur am Start der Simulation anpassen. D
 * Farbliche Altersanzeige für die einzelnen Zellen
 
 #### FunFacts:
-.*32 verschiedene C# Scripte
-.*Insgesamt 2.670 Zeilen Code
-.* ca. 1/2 Monate Entwicklungszeit
+*32 verschiedene C# Scripte
+*Insgesamt 2.670 Zeilen Code
+* ca. 1/2 Monate Entwicklungszeit
 
 [Weitere Informationen](https://www.sascha-kall.de "Weitere Informationen auf der Homepage")
 
