@@ -27,7 +27,7 @@ public class FieldScreenshot : MonoBehaviour
 
     public Texture2D MakeScreenshot()
     {
-        RenderTexture TempRenderTexture = new RenderTexture(1920, 1080, 24);
+        RenderTexture TempRenderTexture = new RenderTexture(Screen.width, Screen.height, 24);
         Texture2D TempScreenshotTexture = new Texture2D(m_ScreenShotCamera.pixelWidth, m_ScreenShotCamera.pixelHeight, TextureFormat.RGB24, false);
 
         m_ScreenShotCamera.targetTexture = TempRenderTexture;

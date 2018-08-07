@@ -179,6 +179,18 @@ public class GUIElementFunctions : MonoBehaviour
 
     public void ExitGame()
     {
-        Application.Quit();
+        #if UNITY_WEBGL
+
+            WebGL TempWebGLScpript = FindObjectOfType<WebGL>();
+            if (!TempWebGLScpript)
+            {
+                Debug.LogError("Das Script WEBGL wurde in der aktuellen Scene nicht gefunden! Es konnte keine URL zu einer anderen Webseite geöffnet werden.");
+            }
+
+            TempWebGLScpript.OpenURL();
+
+        #else
+            Application.Quit();
+        #endif
     }
 }
